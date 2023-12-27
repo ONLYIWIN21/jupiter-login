@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Jupiter Login",
+    "description": "Fix Jupiter Login",
+    "version": "1.0",
+    "icons": {
+        "128": "128.png"
+    }
+}
