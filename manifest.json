@@ -5,5 +5,15 @@
     "version": "1.0",
     "icons": {
         "128": "128.png"
-    }
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "login.js"
+            ],
+            "matches": [
+                "https://login.jupitered.com/*"
+            ]
+        }
+    ]
 }
