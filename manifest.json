@@ -12,7 +12,7 @@
                 "login.js"
             ],
             "matches": [
-                "https://login.jupitered.com/*"
+                "https://login.jupitered.com/login/index.php*"
             ]
         }
     ]
